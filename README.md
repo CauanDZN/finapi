@@ -97,7 +97,7 @@ $ yarn
 $ yarn start
 # Para iniciar como desenvolvedor
 $ yarn dev
-# O app vai inicializar em <http://localhost:3000>
+# O app vai inicializar em <http://localhost:3031>
 ```
 
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
